@@ -35,7 +35,7 @@
 ```cpp
 int main() {
     print(1+2);
-	return 0;
+    return 0;
 }
 ```
 
@@ -46,7 +46,7 @@ int main() {
 ```cpp
 int main() {
     print((12+5)*3/2);
-	return 0;
+    return 0;
 }
 ```
 
