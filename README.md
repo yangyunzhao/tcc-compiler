@@ -35,6 +35,7 @@ Upon completion of the lexical, syntax, and semantic analyses, an Abstract Synta
 ```cpp
 int main() {
     print(1+2);
+	return 0;
 }
 ```
 
@@ -45,6 +46,7 @@ int main() {
 ```cpp
 int main() {
     print((12+5)*3/2);
+	return 0;
 }
 ```
 
