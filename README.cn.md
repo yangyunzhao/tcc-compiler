@@ -32,8 +32,8 @@
 
 #### 测试用例1：
 
-```
-cCopy codeint main() {
+```cpp
+int main() {
     print(1+2);
 }
 ```
@@ -42,8 +42,8 @@ cCopy codeint main() {
 
 #### 测试用例2：
 
-```
-cCopy codeint main() {
+```cpp
+int main() {
     print((12+5)*3/2);
 }
 ```
