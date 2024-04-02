@@ -1,0 +1,3 @@
+Whitespace 空白
+BlockComment 块注释
+LineComment 行注释
